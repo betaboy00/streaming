@@ -11,11 +11,11 @@
 .containerhockey .boxhometeam {
   background:url(https://rawcdn.githack.com/betaboy00/streaming/a7597df3ab6662a3f48146c9cee17335cb26dabc/images/NorthWestHawks.png) no-repeat right; 
   background-size:8vw;
-  padding-right: 150px
+  padding-right: 100px
 }
 
 .containerhockey .boxawayteam {
   background:url(https://rawcdn.githack.com/betaboy00/streaming/a7597df3ab6662a3f48146c9cee17335cb26dabc/images/NEChiefs.png) no-repeat right; 
   background-size:8vw;
-  padding-right: 150px
+  padding-right: 100px
 }
