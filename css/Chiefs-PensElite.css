@@ -6,7 +6,7 @@
   content: "Period";
   margin-right: 0.2em;
   visibility: visible;
-  background:var(--signalcolor);
+  color:var(--signalcolor);
 }
 
 .containerhockey {
