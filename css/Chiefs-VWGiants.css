@@ -1,0 +1,44 @@
+.boxovertimeoff #overtime {
+  display: none;
+}
+
+.boxovertimeoff #moment:before {
+  content: "Period";
+  margin-right: 0.2em;
+  visibility: visible;
+  color:var(--signalcolor);
+}
+
+.boxovertimeoff #moment {
+  color:var(--signalcolor);
+}
+
+.containerhockey {
+  background:url(https://st2.depositphotos.com/1756201/8010/i/450/depositphotos_80108908-stock-photo-navy-blue-abstract-background.jpg);
+  background-color: rgba(1,1,112,0.7);
+  background-blend-mode: multiply;
+}
+
+.containerhockey .boxhomepoints {
+  background-color:navy
+}
+
+.containerhockey .boxawaypoints {
+  background-color:navy
+}
+
+.containerhockey .boxtimer {
+  background-color:navy
+}
+
+.containerhockey .boxhometeam {
+  background:url(https://rawcdn.githack.com/betaboy00/streaming/350808028a5e858ef79e86685d54c6d348079f88/images/NEChiefs.png) no-repeat right; 
+  background-size:8vw;
+  padding-right: 65px
+}
+
+.containerhockey .boxawayteam {
+  background:url(https://rawcdn.githack.com/betaboy00/streaming/c28570661fe0579a916671906c12095ecd5eee60/images/ValleyWestGiants.png) no-repeat right; 
+  background-size:8vw;
+  padding-right: 65px
+}
